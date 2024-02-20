@@ -1,3 +1,5 @@
+package latihan
+
 /*Hari 1 - Command Line Interface dan Git;
 Data Peserta Bootcamp Digital Skill - Golang Backend Development
 1. Nama: Zulfadli Rizal
